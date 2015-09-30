@@ -12,3 +12,9 @@ switch (startGame) {
     case "flee":
         break;
 }
+/* Work on your own part:
+Andy: Defend
+Nick: Mothership
+Marques: Talk
+Ben: Flee
+ */
